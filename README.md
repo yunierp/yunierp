@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yunierp
-- 👀 I’m a Genetic Counsellor looking to change jobs and go into IT.
+- 👀 I’m a Genetic Counsellor learning a bit of coding because it interests me.
 - 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking for a job! Or someone to help me in my journey into web design and coding!
+- 💞️ I like video games, music, animes and going out with friends.
 - 📫 How to reach me: yunierp@hotmail.com
 
 <!---
